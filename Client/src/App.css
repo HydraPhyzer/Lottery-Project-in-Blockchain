@@ -1,0 +1,17 @@
+.Main {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+.B {
+  background-color: red;
+  width: 90vw;
+  height: 80vh;
+
+  background-color: #f1c40f;
+  padding: 10px;
+  border-radius: 3px;
+  gap: 50px;
+  margin: 10px 0px;
+}
